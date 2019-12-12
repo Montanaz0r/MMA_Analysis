@@ -1,6 +1,6 @@
 **(ENG)**
 # MMA_Analysis
-## Dependence analysis between fighting frequency and result/outcome of fights, using descriptive statistics.
+## Dependence analysis between fighting frequency and result/outcome of fights using descriptive statistics.
 
 Analysis was prepared in Jupyter Notebooks using Python 3.7.
 
